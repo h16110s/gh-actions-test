@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "github.vscode-pull-request-github",
+    "editorconfig.editorconfig",
+    "github.vscode-github-actions",
+    "github.codespaces"
+  ]
+}

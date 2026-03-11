@@ -1,0 +1,21 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.inactiveBackground": "#c4c4c4",
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#e8e7e7",
+    "statusBarItem.remoteBackground": "#ffffff",
+    "statusBarItem.remoteForeground": "#000000",
+  },
+  "files.watcherExclude": {
+    "**/.idea/**": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/.vscode/**": true,
+    "**/tmp/**": true,
+    "**/.cache/**": true
+  }
+}
